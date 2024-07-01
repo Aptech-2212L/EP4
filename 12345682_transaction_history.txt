@@ -1,0 +1,3 @@
+Transaction{id=6, accountId=12345682, amount=20000.0, type=WITHDRAWAL, dateTime=2024-07-01T17:12:28.623564100, status=C}
+Transaction{id=7, accountId=12345682, amount=15000.0, type=WITHDRAWAL, dateTime=2024-07-01T17:13:09.383423200, status=C}
+Transaction{id=8, accountId=23232534, amount=5000000.0, type=WITHDRAWAL, dateTime=2024-07-01T17:14:37.206651200, status=C}
